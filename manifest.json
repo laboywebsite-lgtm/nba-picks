@@ -3,6 +3,13 @@
   "base_url": "https://laboywebsite-lgtm.github.io/nba-picks",
   "files": [
     {
+      "name": "Laboy NBA Record Card 2026-04-15.html",
+      "url": "https://laboywebsite-lgtm.github.io/nba-picks/Laboy%20NBA%20Record%20Card%202026-04-15.html",
+      "type": "record",
+      "subtype": "my_record",
+      "date": "2026-04-15"
+    },
+    {
       "name": "Laboy NBA Pick 2026-04-15 #3.html",
       "url": "https://laboywebsite-lgtm.github.io/nba-picks/Laboy%20NBA%20Pick%202026-04-15%20#3.html",
       "type": "record",
@@ -22,13 +29,6 @@
       "type": "record",
       "subtype": "my_record",
       "date": "2026-04-14"
-    },
-    {
-      "name": "Laboy NBA Record Card 2026-04-15.html",
-      "url": "https://laboywebsite-lgtm.github.io/nba-picks/Laboy%20NBA%20Record%20Card%202026-04-15.html",
-      "type": "record",
-      "subtype": "my_record",
-      "date": "2026-04-15"
     },
     {
       "name": "Laboy NBA Picks 2026-04-15.html",
@@ -62,7 +62,7 @@
       "name": "Laboy NBA Pick 2026-04-15 #3.jpg",
       "url": "https://laboywebsite-lgtm.github.io/nba-picks/Laboy%20NBA%20Pick%202026-04-15%20%233.jpg",
       "type": "mypick_img",
-      "subtype": "today",
+      "subtype": "archive",
       "date": "2026-04-15",
       "game": "GSW @ LAC"
     },
@@ -70,7 +70,7 @@
       "name": "Laboy NBA Pick 2026-04-15 #2.jpg",
       "url": "https://laboywebsite-lgtm.github.io/nba-picks/Laboy%20NBA%20Pick%202026-04-15%20%232.jpg",
       "type": "mypick_img",
-      "subtype": "today",
+      "subtype": "archive",
       "date": "2026-04-15",
       "game": "ORL @ PHI"
     }
