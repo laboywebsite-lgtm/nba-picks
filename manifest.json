@@ -3,6 +3,13 @@
   "base_url": "https://laboywebsite-lgtm.github.io/nba-picks",
   "files": [
     {
+      "name": "Laboy NBA Pick 2026-04-17 #5.html",
+      "url": "https://laboywebsite-lgtm.github.io/nba-picks/Laboy%20NBA%20Pick%202026-04-17%20#5.html",
+      "type": "record",
+      "subtype": "my_record",
+      "date": "2026-04-17"
+    },
+    {
       "name": "Laboy NBA Pick 2026-04-17 #4.html",
       "url": "https://laboywebsite-lgtm.github.io/nba-picks/Laboy%20NBA%20Pick%202026-04-17%20#4.html",
       "type": "record",
@@ -92,6 +99,14 @@
       "type": "lines",
       "subtype": "",
       "date": "2026-04-14"
+    },
+    {
+      "name": "Laboy NBA Pick 2026-04-17 #5.jpg",
+      "url": "https://laboywebsite-lgtm.github.io/nba-picks/Laboy%20NBA%20Pick%202026-04-17%20%235.jpg",
+      "type": "mypick_img",
+      "subtype": "today",
+      "date": "2026-04-17",
+      "game": "GSW @ PHX"
     },
     {
       "name": "Laboy NBA Pick 2026-04-17 #4.jpg",
