@@ -3,6 +3,20 @@
   "base_url": "https://laboywebsite-lgtm.github.io/nba-picks",
   "files": [
     {
+      "name": "Laboy NBA Picks 2026-04-20.html",
+      "url": "https://laboywebsite-lgtm.github.io/nba-picks/Laboy%20NBA%20Picks%202026-04-20.html",
+      "type": "picks",
+      "subtype": "",
+      "date": "2026-04-20"
+    },
+    {
+      "name": "Laboy NBA Lines 2026-04-20.html",
+      "url": "https://laboywebsite-lgtm.github.io/nba-picks/Laboy%20NBA%20Lines%202026-04-20.html",
+      "type": "lines",
+      "subtype": "",
+      "date": "2026-04-20"
+    },
+    {
       "name": "Laboy NBA Pick 2026-04-19 #10.html",
       "url": "https://laboywebsite-lgtm.github.io/nba-picks/Laboy%20NBA%20Pick%202026-04-19%20#10.html",
       "type": "record",
@@ -129,24 +143,10 @@
       "date": "2026-04-15"
     },
     {
-      "name": "Laboy NBA Pick 2026-04-15 #3.html",
-      "url": "https://laboywebsite-lgtm.github.io/nba-picks/Laboy%20NBA%20Pick%202026-04-15%20#3.html",
-      "type": "record",
-      "subtype": "my_record",
-      "date": "2026-04-15"
-    },
-    {
-      "name": "Laboy NBA Pick 2026-04-15 #2.html",
-      "url": "https://laboywebsite-lgtm.github.io/nba-picks/Laboy%20NBA%20Pick%202026-04-15%20#2.html",
-      "type": "record",
-      "subtype": "my_record",
-      "date": "2026-04-15"
-    },
-    {
       "name": "Laboy NBA Pick 2026-04-19 #10.jpg",
       "url": "https://laboywebsite-lgtm.github.io/nba-picks/Laboy%20NBA%20Pick%202026-04-19%20%2310.jpg",
       "type": "mypick_img",
-      "subtype": "today",
+      "subtype": "archive",
       "date": "2026-04-19",
       "game": "POR @ SAS"
     },
@@ -154,7 +154,7 @@
       "name": "Laboy NBA Pick 2026-04-19 #9.jpg",
       "url": "https://laboywebsite-lgtm.github.io/nba-picks/Laboy%20NBA%20Pick%202026-04-19%20%239.jpg",
       "type": "mypick_img",
-      "subtype": "today",
+      "subtype": "archive",
       "date": "2026-04-19",
       "game": "PHI vs. BOS"
     },
