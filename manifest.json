@@ -3,6 +3,13 @@
   "base_url": "https://laboywebsite-lgtm.github.io/nba-picks",
   "files": [
     {
+      "name": "Laboy NBA Pick 2026-04-20 #12.html",
+      "url": "https://laboywebsite-lgtm.github.io/nba-picks/Laboy%20NBA%20Pick%202026-04-20%20#12.html",
+      "type": "record",
+      "subtype": "my_record",
+      "date": "2026-04-20"
+    },
+    {
       "name": "Laboy NBA Pick 2026-04-20 #11.html",
       "url": "https://laboywebsite-lgtm.github.io/nba-picks/Laboy%20NBA%20Pick%202026-04-20%20#11.html",
       "type": "record",
@@ -136,11 +143,12 @@
       "date": "2026-04-14"
     },
     {
-      "name": "Laboy NBA Picks 2026-04-14.html",
-      "url": "https://laboywebsite-lgtm.github.io/nba-picks/Laboy%20NBA%20Picks%202026-04-14.html",
-      "type": "picks",
-      "subtype": "",
-      "date": "2026-04-14"
+      "name": "Laboy NBA Pick 2026-04-20 #12.jpg",
+      "url": "https://laboywebsite-lgtm.github.io/nba-picks/Laboy%20NBA%20Pick%202026-04-20%20%2312.jpg",
+      "type": "mypick_img",
+      "subtype": "today",
+      "date": "2026-04-20",
+      "game": "MIN @ DEN"
     },
     {
       "name": "Laboy NBA Pick 2026-04-20 #11.jpg",
