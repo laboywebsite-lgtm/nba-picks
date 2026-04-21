@@ -3,6 +3,13 @@
   "base_url": "https://laboywebsite-lgtm.github.io/nba-picks",
   "files": [
     {
+      "name": "Laboy NBA Pick 2026-04-21 #13.html",
+      "url": "https://laboywebsite-lgtm.github.io/nba-picks/Laboy%20NBA%20Pick%202026-04-21%20#13.html",
+      "type": "record",
+      "subtype": "my_record",
+      "date": "2026-04-21"
+    },
+    {
       "name": "Laboy NBA Record Card 2026-04-20.html",
       "url": "https://laboywebsite-lgtm.github.io/nba-picks/Laboy%20NBA%20Record%20Card%202026-04-20.html",
       "type": "record",
@@ -136,11 +143,12 @@
       "date": "2026-04-17"
     },
     {
-      "name": "Laboy NBA Lines 2026-04-17.html",
-      "url": "https://laboywebsite-lgtm.github.io/nba-picks/Laboy%20NBA%20Lines%202026-04-17.html",
-      "type": "lines",
-      "subtype": "",
-      "date": "2026-04-17"
+      "name": "Laboy NBA Pick 2026-04-21 #13.jpg",
+      "url": "https://laboywebsite-lgtm.github.io/nba-picks/Laboy%20NBA%20Pick%202026-04-21%20%2313.jpg",
+      "type": "mypick_img",
+      "subtype": "today",
+      "date": "2026-04-21",
+      "game": "PHI @ BOS"
     },
     {
       "name": "Laboy NBA Pick 2026-04-20 #12.jpg",
