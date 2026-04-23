@@ -3,6 +3,13 @@
   "base_url": "https://laboywebsite-lgtm.github.io/nba-picks",
   "files": [
     {
+      "name": "Laboy NBA Pick 2026-04-23 #16.html",
+      "url": "https://laboywebsite-lgtm.github.io/nba-picks/Laboy%20NBA%20Pick%202026-04-23%20#16.html",
+      "type": "record",
+      "subtype": "my_record",
+      "date": "2026-04-23"
+    },
+    {
       "name": "Laboy NBA Pick 2026-04-23 #15.html",
       "url": "https://laboywebsite-lgtm.github.io/nba-picks/Laboy%20NBA%20Pick%202026-04-23%20#15.html",
       "type": "record",
@@ -136,11 +143,12 @@
       "date": "2026-04-18"
     },
     {
-      "name": "Laboy NBA Picks 2026-04-18.html",
-      "url": "https://laboywebsite-lgtm.github.io/nba-picks/Laboy%20NBA%20Picks%202026-04-18.html",
-      "type": "picks",
-      "subtype": "",
-      "date": "2026-04-18"
+      "name": "Laboy NBA Pick 2026-04-23 #16.jpg",
+      "url": "https://laboywebsite-lgtm.github.io/nba-picks/Laboy%20NBA%20Pick%202026-04-23%20%2316.jpg",
+      "type": "mypick_img",
+      "subtype": "today",
+      "date": "2026-04-23",
+      "game": "CLE @ TOR"
     },
     {
       "name": "Laboy NBA Pick 2026-04-23 #15.jpg",
