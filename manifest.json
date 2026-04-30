@@ -3,6 +3,13 @@
   "base_url": "https://laboywebsite-lgtm.github.io/nba-picks",
   "files": [
     {
+      "name": "Laboy NBA Record Card 2026-04-29.html",
+      "url": "https://laboywebsite-lgtm.github.io/nba-picks/Laboy%20NBA%20Record%20Card%202026-04-29.html",
+      "type": "record",
+      "subtype": "my_record",
+      "date": "2026-04-29"
+    },
+    {
       "name": "Laboy NBA Pick 2026-04-29 #30.html",
       "url": "https://laboywebsite-lgtm.github.io/nba-picks/Laboy%20NBA%20Pick%202026-04-29%20#30.html",
       "type": "record",
@@ -136,17 +143,10 @@
       "date": "2026-04-25"
     },
     {
-      "name": "Laboy NBA Lines 2026-04-25.html",
-      "url": "https://laboywebsite-lgtm.github.io/nba-picks/Laboy%20NBA%20Lines%202026-04-25.html",
-      "type": "lines",
-      "subtype": "",
-      "date": "2026-04-25"
-    },
-    {
       "name": "Laboy NBA Pick 2026-04-29 #30.jpg",
       "url": "https://laboywebsite-lgtm.github.io/nba-picks/Laboy%20NBA%20Pick%202026-04-29%20%2330.jpg",
       "type": "mypick_img",
-      "subtype": "today",
+      "subtype": "archive",
       "date": "2026-04-29",
       "game": "HOU @ LAL"
     },
@@ -154,7 +154,7 @@
       "name": "Laboy NBA Pick 2026-04-29 #29.jpg",
       "url": "https://laboywebsite-lgtm.github.io/nba-picks/Laboy%20NBA%20Pick%202026-04-29%20%2329.jpg",
       "type": "mypick_img",
-      "subtype": "today",
+      "subtype": "archive",
       "date": "2026-04-29",
       "game": "TOR @ CLE"
     },
@@ -162,7 +162,7 @@
       "name": "Laboy NBA Pick 2026-04-29 #28.jpg",
       "url": "https://laboywebsite-lgtm.github.io/nba-picks/Laboy%20NBA%20Pick%202026-04-29%20%2328.jpg",
       "type": "mypick_img",
-      "subtype": "today",
+      "subtype": "archive",
       "date": "2026-04-29",
       "game": "ORL @ DET"
     },
