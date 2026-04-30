@@ -3,6 +3,13 @@
   "base_url": "https://laboywebsite-lgtm.github.io/nba-picks",
   "files": [
     {
+      "name": "Laboy NBA Picks 2026-04-29.html",
+      "url": "https://laboywebsite-lgtm.github.io/nba-picks/Laboy%20NBA%20Picks%202026-04-29.html",
+      "type": "picks",
+      "subtype": "",
+      "date": "2026-04-29"
+    },
+    {
       "name": "Laboy NBA Pick 2026-04-29 #29.html",
       "url": "https://laboywebsite-lgtm.github.io/nba-picks/Laboy%20NBA%20Pick%202026-04-29%20#29.html",
       "type": "record",
@@ -20,13 +27,6 @@
       "name": "Laboy NBA Lines 2026-04-29.html",
       "url": "https://laboywebsite-lgtm.github.io/nba-picks/Laboy%20NBA%20Lines%202026-04-29.html",
       "type": "lines",
-      "subtype": "",
-      "date": "2026-04-29"
-    },
-    {
-      "name": "Laboy NBA Picks 2026-04-29.html",
-      "url": "https://laboywebsite-lgtm.github.io/nba-picks/Laboy%20NBA%20Picks%202026-04-29.html",
-      "type": "picks",
       "subtype": "",
       "date": "2026-04-29"
     },
