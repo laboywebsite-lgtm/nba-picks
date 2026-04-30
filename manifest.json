@@ -3,6 +3,13 @@
   "base_url": "https://laboywebsite-lgtm.github.io/nba-picks",
   "files": [
     {
+      "name": "Laboy NBA Pick 2026-04-29 #30.html",
+      "url": "https://laboywebsite-lgtm.github.io/nba-picks/Laboy%20NBA%20Pick%202026-04-29%20#30.html",
+      "type": "record",
+      "subtype": "my_record",
+      "date": "2026-04-29"
+    },
+    {
       "name": "Laboy NBA Picks 2026-04-29.html",
       "url": "https://laboywebsite-lgtm.github.io/nba-picks/Laboy%20NBA%20Picks%202026-04-29.html",
       "type": "picks",
@@ -136,11 +143,12 @@
       "date": "2026-04-25"
     },
     {
-      "name": "Laboy NBA Pick 2026-04-24 #18.html",
-      "url": "https://laboywebsite-lgtm.github.io/nba-picks/Laboy%20NBA%20Pick%202026-04-24%20#18.html",
-      "type": "record",
-      "subtype": "my_record",
-      "date": "2026-04-24"
+      "name": "Laboy NBA Pick 2026-04-29 #30.jpg",
+      "url": "https://laboywebsite-lgtm.github.io/nba-picks/Laboy%20NBA%20Pick%202026-04-29%20%2330.jpg",
+      "type": "mypick_img",
+      "subtype": "today",
+      "date": "2026-04-29",
+      "game": "HOU @ LAL"
     },
     {
       "name": "Laboy NBA Pick 2026-04-29 #29.jpg",
