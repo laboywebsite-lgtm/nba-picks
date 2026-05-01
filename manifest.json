@@ -3,6 +3,13 @@
   "base_url": "https://laboywebsite-lgtm.github.io/nba-picks",
   "files": [
     {
+      "name": "Laboy NBA Record Card 2026-04-30.html",
+      "url": "https://laboywebsite-lgtm.github.io/nba-picks/Laboy%20NBA%20Record%20Card%202026-04-30.html",
+      "type": "record",
+      "subtype": "my_record",
+      "date": "2026-04-30"
+    },
+    {
       "name": "Laboy NBA Pick 2026-04-30 #31.html",
       "url": "https://laboywebsite-lgtm.github.io/nba-picks/Laboy%20NBA%20Pick%202026-04-30%20#31.html",
       "type": "record",
@@ -136,17 +143,10 @@
       "date": "2026-04-26"
     },
     {
-      "name": "Laboy NBA Pick 2026-04-25 #21.html",
-      "url": "https://laboywebsite-lgtm.github.io/nba-picks/Laboy%20NBA%20Pick%202026-04-25%20#21.html",
-      "type": "record",
-      "subtype": "my_record",
-      "date": "2026-04-25"
-    },
-    {
       "name": "Laboy NBA Pick 2026-04-30 #31.jpg",
       "url": "https://laboywebsite-lgtm.github.io/nba-picks/Laboy%20NBA%20Pick%202026-04-30%20%2331.jpg",
       "type": "mypick_img",
-      "subtype": "today",
+      "subtype": "archive",
       "date": "2026-04-30",
       "game": "NYK @ ATL"
     },
