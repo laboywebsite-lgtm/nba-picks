@@ -3,6 +3,13 @@
   "base_url": "https://laboywebsite-lgtm.github.io/nba-picks",
   "files": [
     {
+      "name": "Laboy NBA Pick 2026-05-03 #35.html",
+      "url": "https://laboywebsite-lgtm.github.io/nba-picks/Laboy%20NBA%20Pick%202026-05-03%20#35.html",
+      "type": "record",
+      "subtype": "my_record",
+      "date": "2026-05-03"
+    },
+    {
       "name": "Laboy NBA Picks 2026-05-03.html",
       "url": "https://laboywebsite-lgtm.github.io/nba-picks/Laboy%20NBA%20Picks%202026-05-03.html",
       "type": "picks",
@@ -136,11 +143,12 @@
       "date": "2026-04-29"
     },
     {
-      "name": "Laboy NBA Pick 2026-04-29 #28.html",
-      "url": "https://laboywebsite-lgtm.github.io/nba-picks/Laboy%20NBA%20Pick%202026-04-29%20#28.html",
-      "type": "record",
-      "subtype": "my_record",
-      "date": "2026-04-29"
+      "name": "Laboy NBA Pick 2026-05-03 #35.jpg",
+      "url": "https://laboywebsite-lgtm.github.io/nba-picks/Laboy%20NBA%20Pick%202026-05-03%20%2335.jpg",
+      "type": "mypick_img",
+      "subtype": "today",
+      "date": "2026-05-03",
+      "game": "ORL @ DET"
     },
     {
       "name": "Laboy NBA Pick 2026-05-02 #34.jpg",
@@ -373,14 +381,6 @@
       "subtype": "archive",
       "date": "2026-04-18",
       "game": "TOR vs. CLE"
-    },
-    {
-      "name": "Laboy NBA Pick 2026-04-17 #5.jpg",
-      "url": "https://laboywebsite-lgtm.github.io/nba-picks/Laboy%20NBA%20Pick%202026-04-17%20%235.jpg",
-      "type": "mypick_img",
-      "subtype": "archive",
-      "date": "2026-04-17",
-      "game": "GSW @ PHX"
     }
   ]
 }
