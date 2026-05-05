@@ -3,6 +3,13 @@
   "base_url": "https://laboywebsite-lgtm.github.io/nba-picks",
   "files": [
     {
+      "name": "Laboy NBA Pick 2026-05-04 #38.html",
+      "url": "https://laboywebsite-lgtm.github.io/nba-picks/Laboy%20NBA%20Pick%202026-05-04%20#38.html",
+      "type": "record",
+      "subtype": "my_record",
+      "date": "2026-05-04"
+    },
+    {
       "name": "Laboy NBA Pick 2026-05-04 #37.html",
       "url": "https://laboywebsite-lgtm.github.io/nba-picks/Laboy%20NBA%20Pick%202026-05-04%20#37.html",
       "type": "record",
@@ -136,11 +143,12 @@
       "date": "2026-04-30"
     },
     {
-      "name": "Laboy NBA Record Card 2026-04-29.html",
-      "url": "https://laboywebsite-lgtm.github.io/nba-picks/Laboy%20NBA%20Record%20Card%202026-04-29.html",
-      "type": "record",
-      "subtype": "my_record",
-      "date": "2026-04-29"
+      "name": "Laboy NBA Pick 2026-05-04 #38.jpg",
+      "url": "https://laboywebsite-lgtm.github.io/nba-picks/Laboy%20NBA%20Pick%202026-05-04%20%2338.jpg",
+      "type": "mypick_img",
+      "subtype": "today",
+      "date": "2026-05-04",
+      "game": "MIN @ SAS"
     },
     {
       "name": "Laboy NBA Pick 2026-05-04 #37.jpg",
@@ -373,14 +381,6 @@
       "subtype": "archive",
       "date": "2026-04-19",
       "game": "PHI vs. BOS"
-    },
-    {
-      "name": "Laboy NBA Pick 2026-04-18 #8.jpg",
-      "url": "https://laboywebsite-lgtm.github.io/nba-picks/Laboy%20NBA%20Pick%202026-04-18%20%238.jpg",
-      "type": "mypick_img",
-      "subtype": "archive",
-      "date": "2026-04-18",
-      "game": "HOU @ LAL"
     }
   ]
 }
