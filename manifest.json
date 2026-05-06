@@ -3,6 +3,20 @@
   "base_url": "https://laboywebsite-lgtm.github.io/nba-picks",
   "files": [
     {
+      "name": "Laboy NBA Lines 2026-05-06.html",
+      "url": "https://laboywebsite-lgtm.github.io/nba-picks/Laboy%20NBA%20Lines%202026-05-06.html",
+      "type": "lines",
+      "subtype": "",
+      "date": "2026-05-06"
+    },
+    {
+      "name": "Laboy NBA Picks 2026-05-06.html",
+      "url": "https://laboywebsite-lgtm.github.io/nba-picks/Laboy%20NBA%20Picks%202026-05-06.html",
+      "type": "picks",
+      "subtype": "",
+      "date": "2026-05-06"
+    },
+    {
       "name": "Laboy NBA Pick 2026-05-05 #40.html",
       "url": "https://laboywebsite-lgtm.github.io/nba-picks/Laboy%20NBA%20Pick%202026-05-05%20#40.html",
       "type": "record",
@@ -129,24 +143,10 @@
       "date": "2026-05-01"
     },
     {
-      "name": "Laboy NBA Pick 2026-05-01 #32.html",
-      "url": "https://laboywebsite-lgtm.github.io/nba-picks/Laboy%20NBA%20Pick%202026-05-01%20#32.html",
-      "type": "record",
-      "subtype": "my_record",
-      "date": "2026-05-01"
-    },
-    {
-      "name": "Laboy NBA Picks 2026-05-01.html",
-      "url": "https://laboywebsite-lgtm.github.io/nba-picks/Laboy%20NBA%20Picks%202026-05-01.html",
-      "type": "picks",
-      "subtype": "",
-      "date": "2026-05-01"
-    },
-    {
       "name": "Laboy NBA Pick 2026-05-05 #40.jpg",
       "url": "https://laboywebsite-lgtm.github.io/nba-picks/Laboy%20NBA%20Pick%202026-05-05%20%2340.jpg",
       "type": "mypick_img",
-      "subtype": "today",
+      "subtype": "archive",
       "date": "2026-05-05",
       "game": "LAL @ OKC"
     },
@@ -154,7 +154,7 @@
       "name": "Laboy NBA Pick 2026-05-05 #39.jpg",
       "url": "https://laboywebsite-lgtm.github.io/nba-picks/Laboy%20NBA%20Pick%202026-05-05%20%2339.jpg",
       "type": "mypick_img",
-      "subtype": "today",
+      "subtype": "archive",
       "date": "2026-05-05",
       "game": "CLE @ DET"
     },
