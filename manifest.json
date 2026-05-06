@@ -3,6 +3,13 @@
   "base_url": "https://laboywebsite-lgtm.github.io/nba-picks",
   "files": [
     {
+      "name": "Laboy NBA Pick 2026-05-06 #41.html",
+      "url": "https://laboywebsite-lgtm.github.io/nba-picks/Laboy%20NBA%20Pick%202026-05-06%20#41.html",
+      "type": "record",
+      "subtype": "my_record",
+      "date": "2026-05-06"
+    },
+    {
       "name": "Laboy NBA Lines 2026-05-06.html",
       "url": "https://laboywebsite-lgtm.github.io/nba-picks/Laboy%20NBA%20Lines%202026-05-06.html",
       "type": "lines",
@@ -136,11 +143,12 @@
       "date": "2026-05-02"
     },
     {
-      "name": "Laboy NBA Record Card 2026-05-01.html",
-      "url": "https://laboywebsite-lgtm.github.io/nba-picks/Laboy%20NBA%20Record%20Card%202026-05-01.html",
-      "type": "record",
-      "subtype": "my_record",
-      "date": "2026-05-01"
+      "name": "Laboy NBA Pick 2026-05-06 #41.jpg",
+      "url": "https://laboywebsite-lgtm.github.io/nba-picks/Laboy%20NBA%20Pick%202026-05-06%20%2341.jpg",
+      "type": "mypick_img",
+      "subtype": "today",
+      "date": "2026-05-06",
+      "game": "PHI @ NYK"
     },
     {
       "name": "Laboy NBA Pick 2026-05-05 #40.jpg",
@@ -373,14 +381,6 @@
       "subtype": "archive",
       "date": "2026-04-20",
       "game": "MIN @ DEN"
-    },
-    {
-      "name": "Laboy NBA Pick 2026-04-20 #11.jpg",
-      "url": "https://laboywebsite-lgtm.github.io/nba-picks/Laboy%20NBA%20Pick%202026-04-20%20%2311.jpg",
-      "type": "mypick_img",
-      "subtype": "archive",
-      "date": "2026-04-20",
-      "game": "TOR @ CLE"
     }
   ]
 }
