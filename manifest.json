@@ -3,6 +3,13 @@
   "base_url": "https://laboywebsite-lgtm.github.io/nba-picks",
   "files": [
     {
+      "name": "Laboy NBA Record Card 2026-05-07.html",
+      "url": "https://laboywebsite-lgtm.github.io/nba-picks/Laboy%20NBA%20Record%20Card%202026-05-07.html",
+      "type": "record",
+      "subtype": "my_record",
+      "date": "2026-05-07"
+    },
+    {
       "name": "Laboy NBA Record Card 2026-05-06.html",
       "url": "https://laboywebsite-lgtm.github.io/nba-picks/Laboy%20NBA%20Record%20Card%202026-05-06.html",
       "type": "record",
@@ -136,17 +143,18 @@
       "date": "2026-05-02"
     },
     {
-      "name": "Laboy NBA Record Card 2026-05-03.html",
-      "url": "https://laboywebsite-lgtm.github.io/nba-picks/Laboy%20NBA%20Record%20Card%202026-05-03.html",
-      "type": "record",
-      "subtype": "my_record",
-      "date": "2026-05-03"
+      "name": "Laboy NBA Pick 2026-05-06 #42.jpg",
+      "url": "https://laboywebsite-lgtm.github.io/nba-picks/Laboy%20NBA%20Pick%202026-05-06%20%2342.jpg",
+      "type": "mypick_img",
+      "subtype": "archive",
+      "date": "2026-05-06",
+      "game": "MIN @ SAS"
     },
     {
       "name": "Laboy NBA Pick 2026-05-06 #41.jpg",
       "url": "https://laboywebsite-lgtm.github.io/nba-picks/Laboy%20NBA%20Pick%202026-05-06%20%2341.jpg",
       "type": "mypick_img",
-      "subtype": "today",
+      "subtype": "archive",
       "date": "2026-05-06",
       "game": "PHI @ NYK"
     },
@@ -154,17 +162,9 @@
       "name": "Laboy NBA Pick 2026-05-06 #43.jpg",
       "url": "https://laboywebsite-lgtm.github.io/nba-picks/Laboy%20NBA%20Pick%202026-05-06%20%2343.jpg",
       "type": "mypick_img",
-      "subtype": "today",
+      "subtype": "archive",
       "date": "2026-05-06",
       "game": ""
-    },
-    {
-      "name": "Laboy NBA Pick 2026-05-06 #42.jpg",
-      "url": "https://laboywebsite-lgtm.github.io/nba-picks/Laboy%20NBA%20Pick%202026-05-06%20%2342.jpg",
-      "type": "mypick_img",
-      "subtype": "today",
-      "date": "2026-05-06",
-      "game": "MIN @ SAS"
     },
     {
       "name": "Laboy NBA Pick 2026-05-05 #40.jpg",
