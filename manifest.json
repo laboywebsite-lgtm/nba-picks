@@ -3,6 +3,13 @@
   "base_url": "https://laboywebsite-lgtm.github.io/nba-picks",
   "files": [
     {
+      "name": "Laboy NBA Pick 2026-05-11 #51.html",
+      "url": "https://laboywebsite-lgtm.github.io/nba-picks/Laboy%20NBA%20Pick%202026-05-11%20#51.html",
+      "type": "record",
+      "subtype": "my_record",
+      "date": "2026-05-11"
+    },
+    {
       "name": "Laboy NBA Pick 2026-05-11 #50.html",
       "url": "https://laboywebsite-lgtm.github.io/nba-picks/Laboy%20NBA%20Pick%202026-05-11%20#50.html",
       "type": "record",
@@ -136,11 +143,12 @@
       "date": "2026-05-06"
     },
     {
-      "name": "Laboy NBA Pick 2026-05-06 #41.html",
-      "url": "https://laboywebsite-lgtm.github.io/nba-picks/Laboy%20NBA%20Pick%202026-05-06%20#41.html",
-      "type": "record",
-      "subtype": "my_record",
-      "date": "2026-05-06"
+      "name": "Laboy NBA Pick 2026-05-11 #51.jpg",
+      "url": "https://laboywebsite-lgtm.github.io/nba-picks/Laboy%20NBA%20Pick%202026-05-11%20%2351.jpg",
+      "type": "mypick_img",
+      "subtype": "today",
+      "date": "2026-05-11",
+      "game": "THUNDER vs. LAKERS"
     },
     {
       "name": "Laboy NBA Pick 2026-05-11 #50.jpg",
@@ -373,14 +381,6 @@
       "subtype": "archive",
       "date": "2026-04-26",
       "game": "SAS @ POR"
-    },
-    {
-      "name": "Laboy NBA Pick 2026-04-26 #22.jpg",
-      "url": "https://laboywebsite-lgtm.github.io/nba-picks/Laboy%20NBA%20Pick%202026-04-26%20%2322.jpg",
-      "type": "mypick_img",
-      "subtype": "archive",
-      "date": "2026-04-26",
-      "game": "CLE @ TOR"
     }
   ]
 }
