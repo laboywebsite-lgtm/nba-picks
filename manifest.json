@@ -3,6 +3,13 @@
   "base_url": "https://laboywebsite-lgtm.github.io/nba-picks",
   "files": [
     {
+      "name": "Laboy NBA Record Card 2026-05-11.html",
+      "url": "https://laboywebsite-lgtm.github.io/nba-picks/Laboy%20NBA%20Record%20Card%202026-05-11.html",
+      "type": "record",
+      "subtype": "my_record",
+      "date": "2026-05-11"
+    },
+    {
       "name": "Laboy NBA Pick 2026-05-11 #51.html",
       "url": "https://laboywebsite-lgtm.github.io/nba-picks/Laboy%20NBA%20Pick%202026-05-11%20#51.html",
       "type": "record",
@@ -136,17 +143,10 @@
       "date": "2026-05-06"
     },
     {
-      "name": "Laboy NBA Pick 2026-05-06 #42.html",
-      "url": "https://laboywebsite-lgtm.github.io/nba-picks/Laboy%20NBA%20Pick%202026-05-06%20#42.html",
-      "type": "record",
-      "subtype": "my_record",
-      "date": "2026-05-06"
-    },
-    {
       "name": "Laboy NBA Pick 2026-05-11 #51.jpg",
       "url": "https://laboywebsite-lgtm.github.io/nba-picks/Laboy%20NBA%20Pick%202026-05-11%20%2351.jpg",
       "type": "mypick_img",
-      "subtype": "today",
+      "subtype": "archive",
       "date": "2026-05-11",
       "game": "THUNDER vs. LAKERS"
     },
@@ -154,7 +154,7 @@
       "name": "Laboy NBA Pick 2026-05-11 #50.jpg",
       "url": "https://laboywebsite-lgtm.github.io/nba-picks/Laboy%20NBA%20Pick%202026-05-11%20%2350.jpg",
       "type": "mypick_img",
-      "subtype": "today",
+      "subtype": "archive",
       "date": "2026-05-11",
       "game": "PISTONS vs. CAVS"
     },
